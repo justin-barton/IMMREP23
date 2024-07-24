@@ -24,10 +24,10 @@ In addition to these, a sample training data file is provided *(VDJdb_paired_cha
 
 ## Files
 
-*   **VDJdb_paired_chain.csv** - a sample training dataset compiled from VDJdb<sup>1</sup>
-*   **test.csv** - the test set
-*   **sample_submission.csv** - a sample submission file in the correct format (*test.csv* + *Prediction* column)
-*   **solutions.csv** - the test set with labels (*test.csv* + *Label* and *Usage* columns)
+*   **data/VDJdb_paired_chain.csv** - a sample training dataset compiled from VDJdb<sup>1</sup>
+*   **data/test.csv** - the test set
+*   **data/sample_submission.csv** - a sample submission file in the correct format (*test.csv* + *Prediction* column)
+*   **data/solutions.csv** - the test set with labels (*test.csv* + *Label* and *Usage* columns)
 
 ## Columns
 
