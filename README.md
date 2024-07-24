@@ -2,6 +2,8 @@
 
 Datasets from the IMMREP23 TCR specificity prediction challenge
 
+![IMMREP23 Header](https://www.kaggle.com/competitions/54698/images/header)
+
 ## Contents
 - [Competition Description](#competition-description)
 - [Dataset Description](#dataset-description)
