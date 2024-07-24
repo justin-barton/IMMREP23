@@ -40,7 +40,7 @@ In addition to these, a sample training data file is provided (`VDJdb_paired_cha
 - `data/sample_submission.csv`: A sample submission file in the correct format (`test.csv` + `Prediction` column)
 - `data/solutions.csv`: The test set with labels (`test.csv` + `Label` and `Usage` columns)
 
-## Data Dictiontary
+## Data Dictionary
 
 ### Common columns
 
