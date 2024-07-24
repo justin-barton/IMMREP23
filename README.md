@@ -27,6 +27,7 @@ In addition to these, a sample training data file is provided *(VDJdb_paired_cha
 *   **VDJdb_paired_chain.csv** - a sample training dataset compiled from VDJdb<sup>1</sup>
 *   **test.csv** - the test set
 *   **sample_submission.csv** - a sample submission file in the correct format (*test.csv* + *Prediction* column)
+*   **solutions.csv** - the test set with labels (*test.csv* + *Label* and *Usage* columns)
 
 ## Columns
 
@@ -102,5 +103,7 @@ Manuscript pending.
 
 ## References
 <sup>1</sup> Goncharov, M., Bagaev, D., Shcherbinin, D. et al. VDJdb in the pandemic era: a compendium of T cell receptors specific for SARS-CoV-2. Nat Methods 19, 1017–1019 (2022). https://doi.org/10.1038/s41592-022-01578-0
+
 <sup>2</sup> Heather, J., Spindler, M., Herrero Alonso, M., et al. Stitchr: stitching coding TCR nucleotide sequences from V/J/CDR3 information. Nucleic Acids Research, (2022). gkac190, https://doi.org/10.1093/nar/gkac190.
+
 <sup>3</sup> Dunbar, J., Deane, C.M., ANARCI: antigen receptor numbering and receptor classification. Bioinformatics, Volume 32, Issue 2, January 2016, Pages 298–300, https://doi.org/10.1093/bioinformatics/btv552
